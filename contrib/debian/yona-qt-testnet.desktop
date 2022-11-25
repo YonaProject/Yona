@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=Yona Core Testnet
+Comment=Connect to the Yona P2P Network Testnet
+Exec=yona-qt -testnet %u
+Terminal=false
+Type=Application
+Icon=yonatestnet128
+MimeType=x-scheme-handler/yona;
+Categories=Network;
+StartupWMClass=Yona-qt-testnet
+Name[en_US]=yona-qt-testnet

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=Yona Core
+Comment=Connect to the Yona P2P Network
+Exec=yona-qt %u
+Terminal=false
+Type=Application
+Icon=yona128
+MimeType=x-scheme-handler/yona;
+Categories=Network;
+StartupWMClass=Yona-qt
+Name[en_US]=yona-qt
